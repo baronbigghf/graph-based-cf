@@ -17,6 +17,6 @@
 ## Project Value
 通过知识图谱与用户协同过滤的推荐算法相结合，解决传统企业个性化推荐的冷启动问题。
 ## Project Design
-
+![image](https://user-images.githubusercontent.com/95723497/145687090-01b7fe8a-67fb-496c-b88b-10199765ea38.png)
 
 ## Project Testing
